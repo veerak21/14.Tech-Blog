@@ -1,4 +1,11 @@
 {
+  "development": {
+    "username": "r1v9it350k49ruf0",
+    "password": "nnya6rilzhzjtv2v",
+    "database": "g6d17am0idewfquw",
+    "host": "hwr4wkxs079mtb19.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "dialect": ""
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
