@@ -2,7 +2,7 @@
 
 
 ## Description:
- This application can publish articles, blog posts, and the user's thoughts and opinions. Here, the users create their accounts. This enables them to add their posts and comment on other posts. The users can view the posts and visit links. Users can edit titles and content, and delete their posts.
+ This application can publish articles, blog posts, and the user's thoughts and opinions. Here, the users create their accounts. This enables them to add their posts and comment on other posts. The users can view the posts, visit links and delete their posts.
 
 ## Installation:
  The following packages are to be installed:
