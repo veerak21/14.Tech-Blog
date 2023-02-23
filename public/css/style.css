@@ -15,7 +15,7 @@ body {
 
 .blogTitle {
     text-decoration: none;
-    color: darkkhaki;
+    color: black;
 }
 
 .blogDesc {
@@ -61,7 +61,7 @@ body {
     margin-right: auto;
     margin-top: 10px;
     max-width: 75%;
-    background-color: rgb(52, 43, 170);
+    background-color: rgb(152, 147, 224);
 }
 
 .commentOwner {
